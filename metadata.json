@@ -1,0 +1,6 @@
+{
+  "name": "Pix Fácil - Cadastro e Chave Pix",
+  "description": "Aplicativo ágil para cadastro e cópia de chave Pix de clientes com banco de dados JSON e painel administrativo protegido.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
